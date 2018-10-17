@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :dailywrites
   resources :dailyprompts
   devise_for :users
   resources :freewrites
