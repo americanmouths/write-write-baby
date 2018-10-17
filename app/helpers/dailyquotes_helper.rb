@@ -1,0 +1,2 @@
+module DailyquotesHelper
+end

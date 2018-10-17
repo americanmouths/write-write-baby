@@ -1,0 +1,2 @@
+class Dailyquote < ApplicationRecord
+end
