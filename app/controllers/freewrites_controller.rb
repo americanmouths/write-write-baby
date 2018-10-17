@@ -1,0 +1,2 @@
+class FreewritesController < ApplicationController
+end
