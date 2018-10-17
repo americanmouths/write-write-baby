@@ -1,0 +1,2 @@
+class DailypromptsController < ApplicationController
+end
